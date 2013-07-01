@@ -1,0 +1,10 @@
+bin/
+gen/
+res/
+project.properties
+.classpath
+.project
+libs/
+AndroidManifest.xml
+proguard-project.txt
+ic_launcher-web.png
